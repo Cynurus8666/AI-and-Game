@@ -1,2 +1,2 @@
-# AI-and-Game
-AI to make the game more interesting.
+# Sao mình lại làm nó nhỉ?
+Mình làm vì mình muốn làm. :3
